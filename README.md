@@ -26,3 +26,22 @@ Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) fo
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
++---------------------+        +---------------------+        +---------------------+
+|                     |        |                     |        |                     |
+|     Frontend        |  <---> |      Backend        |  <---> |      Agents         |
+| (HTML, CSS, JS)     |        |    (FastAPI)        |        |  (Crew AI, NLP)     |
+|                     |        |                     |        |                     |
++---------------------+        +---------------------+        +---------------------+
+         ^                              |                              |
+         |                              |                              |
+         |                              v                              v
+         |                     +---------------------+        +---------------------+
+         |                     |                     |        |                     |
+         |                     |    Data Layer       |        |  External Services  |
+         |                     |  (JSON, Database)   |        |  (Crew AI, LangChain)|
+         |                     |                     |        |                     |
+         |                     +---------------------+        +---------------------+
+         |                              ^
+         |                              |
+         +------------------------------+
