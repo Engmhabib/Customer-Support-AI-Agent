@@ -1,0 +1,11 @@
+{
+    "products": [
+        {"id": 1, "name": "Product A", "category": "Electronics"},
+        {"id": 2, "name": "Product B", "category": "Books"},
+        {"id": 3, "name": "Product C", "category": "Home Appliances"}
+    ],
+    "orders": [
+        {"order_id": 101, "product_id": 1, "user_id": 1001, "status": "Shipped"},
+        {"order_id": 102, "product_id": 2, "user_id": 1002, "status": "Processing"}
+    ]
+}
