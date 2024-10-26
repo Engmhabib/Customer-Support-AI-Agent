@@ -30,21 +30,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![image](https://github.com/user-attachments/assets/4ccd3b5b-6f81-49bf-8a4e-6d57c097d9ac)
 
 
-+---------------------+        +---------------------+        +---------------------+
-|                     |        |                     |        |                     |
-|     Frontend        |  <---> |      Backend        |  <---> |      Agents         |
-| (HTML, CSS, JS)     |        |    (FastAPI)        |        |  (Crew AI, NLP)     |
-|                     |        |                     |        |                     |
-+---------------------+        +---------------------+        +---------------------+
-         ^                              |                              |
-         |                              |                              |
-         |                              v                              v
-         |                     +---------------------+        +---------------------+
-         |                     |                     |        |                     |
-         |                     |    Data Layer       |        |  External Services  |
-         |                     |  (JSON, Database)   |        |  (Crew AI, LangChain)|
-         |                     |                     |        |                     |
-         |                     +---------------------+        +---------------------+
-         |                              ^
-         |                              |
-         +------------------------------+
+
