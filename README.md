@@ -27,6 +27,9 @@ Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) fo
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+![image](https://github.com/user-attachments/assets/4ccd3b5b-6f81-49bf-8a4e-6d57c097d9ac)
+
+
 +---------------------+        +---------------------+        +---------------------+
 |                     |        |                     |        |                     |
 |     Frontend        |  <---> |      Backend        |  <---> |      Agents         |
