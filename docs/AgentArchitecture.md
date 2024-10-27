@@ -36,10 +36,3 @@ This system utilizes three specialized agents to handle different types of custo
 
 ---
 
-### APIReference.md
-
-```markdown
-# API Reference
-
-## Base URL
-
