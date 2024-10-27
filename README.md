@@ -21,7 +21,7 @@ Follow the instructions in the [Setup Guide](docs/SetupGuide.md) to set up and r
 
 ## Contributing
 
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+Contributions are welcome! 
 
 ## License
 
